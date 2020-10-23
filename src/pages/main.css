@@ -1,0 +1,12 @@
+.pageStyle{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    color: #575454;
+    font-size: 50px;
+    font-style: bolder;
+    text-transform: capitalize;
+    word-spacing: 20px;
+}
